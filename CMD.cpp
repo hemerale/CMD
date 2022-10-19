@@ -90,10 +90,6 @@ void software(){
 			system("code");
 			exit(0);
 		}
-		else if(b == "supremo"){
-			system("start Supremo");
-			exit(0);
-		}
 		else{
 			cout<<"Comando sbagliato, vuoi uscire?[y/n]: ";
 			cin>>ferma;
@@ -187,10 +183,6 @@ int main(){
 		}
 		else if(cmd == "start-vscode"){
 			system("code");
-			exit(0);
-		}
-		else if(cmd == "start-supremo"){
-			system("start Supremo");
 			exit(0);
 		}
 		else if(cmd == "calculator"){
