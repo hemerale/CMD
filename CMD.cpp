@@ -118,8 +118,7 @@ void media(){ //Media Aritmetica
 			cin>>a;
 		}
 
-		somma /= stop;
-		cout<< "La media e' di: "<<somma<<endl<<endl;
+		cout<< "La media e' di: "<<somma/stop<<endl<<endl;
 					
 		stop = 0;
 		somma = 0;
