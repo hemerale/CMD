@@ -1,6 +1,6 @@
 /*
 	Created By Hemerale Back - 2022
-										*/
+						*/
 
 #include <iostream>
 #include <string>
